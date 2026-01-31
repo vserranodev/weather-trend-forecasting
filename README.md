@@ -78,7 +78,3 @@ The analysis revealed several interesting insights:
 ## Requirements
 
 See `requirements.txt` for complete dependencies.
-
-## PM Accelerator
-
-This analysis was completed as part of the PM Accelerator Tech Assessment.
